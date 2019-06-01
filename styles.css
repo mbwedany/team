@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+ }
+ 
+ 
+ body{
+    background: white;
+    background-position: right;
+    background-image: url(https://images.unsplash.com/photo-1492052722242-2554d0e99e3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80);
+    font-size: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+ 
+ }
+ 
+ div{
+    background: rgb(80, 50, 50);
+    border-radius: 20px;
+ }
+ h1{
+    background: pink;
+    color: black;
+    border-bottom: 4px red dashed;
+    text-decoration-color: aqua
+ }
+ p{
+    background: #f907e5;
+    color: white;
+    /*border: black;
+    border-width: 3px;
+    border-style: solid;*/
+    border: 5px brown solid;
+    margin: 2%;
+    padding: 10px;
+ 
+ }
+ 
+ /* .pink{
+    background: pink;
+    margin-top: 60px;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    border: 4px black dashed; */
+ 
+ }
+ #white{
+    background: white;
+ }
+ 
+ h1, li{
+    color: greenyellow;
+ }
+ 
+ /* .box {
+    height: 6em;
+    width: 6em;
+    text-align: center;
+ 
+ }
+ 
+ .one{
+    background: pink;
+ 
+ }
+ .two{
+    background: green;
+ 
+ }
+ .three{
+    background: purple;
+    display: inline-block;
+ 
+ }
+ .four{
+    background: yellow;
+    display: inline-block; */
+ }
