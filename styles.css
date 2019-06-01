@@ -19,13 +19,13 @@
     border-radius: 20px;
  }
  h1{
-    background: pink;
+    background:#EBB681;
     color: black;
     border-bottom: 4px red dashed;
-    text-decoration-color: aqua
+    text-decoration-color: white;
  }
  p{
-    background: #f907e5;
+    background: #EBB681;
     color: white;
     /*border: black;
     border-width: 3px;
@@ -50,7 +50,7 @@
  }
  
  h1, li{
-    color: greenyellow;
+    color: white;
  }
  
  /* .box {
